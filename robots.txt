@@ -1,0 +1,11 @@
+# robotstxt.org/
+
+User-agent: *
+Disallow: /audio/
+Disallow: /css/
+Disallow: /font-awesome-4.6.3/
+Disallow: /formmail/
+Disallow: /img/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /styleguide/
